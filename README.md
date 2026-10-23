@@ -7,7 +7,7 @@ Interpretable modeling of residential property prices considering spatial factor
 Мишин Павел Юрьевич, MDS HSE
 
 # Научный руководитель
-Темирханов Азиз Арсенович, ФКН НИУ ВШЭ
+Азимова Карина Узгеновна, ФКН НИУ ВШЭ
 
 # План работы
 ## 1. Обзор литературы и методологическая база
